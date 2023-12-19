@@ -1,1 +1,1 @@
-# Medium
+# Techlog
